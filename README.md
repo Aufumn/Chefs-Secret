@@ -1,2 +1,2 @@
 # Chefs-Secret
-Chefs secret computational artifact
+A recipe planning tool to help users with allegens.
